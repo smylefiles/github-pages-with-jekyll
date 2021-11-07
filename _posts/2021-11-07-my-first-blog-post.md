@@ -1,4 +1,4 @@
 ---
-"Bogger"
-"2021-11-07"
+title: "Ymy first blog post"
+date: 2021-11-07
 ---
